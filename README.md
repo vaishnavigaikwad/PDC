@@ -1,1 +1,1 @@
-# PDC
+# Parallel Distibuted Systems
